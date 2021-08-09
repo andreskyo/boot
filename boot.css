@@ -1,0 +1,13 @@
+body{
+    background:black;
+    color:white;
+}
+
+img{
+    height: 800px;
+}
+
+.card{
+    height: 200px;
+    margin:15px auto;
+}
